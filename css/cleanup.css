@@ -11,6 +11,6 @@
 #wall #parent .tag-5{
   display: none;
 }
-div[id="tag-6"]{
+#parent[id="tag-6"]{
   display: none;
 }
