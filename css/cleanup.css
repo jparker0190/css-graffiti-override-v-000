@@ -11,6 +11,10 @@
 #wall #parent .tag-5{
   display: none;
 }
-#parent[id="tag-6"]{
+body div#wall div.parent div:last-child div#tag-6 {
   display: none;
+}
+
+ body div#wall div.parent div:first-child > #tag-7.slick {
+    display: none;
 }
